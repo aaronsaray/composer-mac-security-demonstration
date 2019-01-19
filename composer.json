@@ -2,6 +2,7 @@
     "name": "aaronsaray/composer-mac-security-demonstration",
     "description": "This demonstrates one example of what composer can do if you use it locally using your mac. Always review your source code before installing!",
     "license": "MIT",
+    "type": "project",
     "scripts": {
         "post-root-package-install": [
             "say I have been executed from composer."
