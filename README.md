@@ -5,4 +5,4 @@ when we run an install locally.  For demonstration purposes, I've made this a lo
 for a Mac.  It will execute the `say` command to demonstrate it can execute things you didn't 
 necessarily authorize.
 
-There is a companion piece with this located at [aaronsaray.com/blog](https://aaronsaray.com) but it is currently a `draft`.
+There is a companion piece with this located at [aaronsaray.com/blog](https://www.aaronsaray.com/2019/composer-security-concerns-create-project).
